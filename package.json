@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "name": "firstbot",
+  "version": "1.0.0",
+  "description": "Bot para Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Celio Augusto",
+  "license": "ISC"
+}
